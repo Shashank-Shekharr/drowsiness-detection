@@ -29,6 +29,20 @@ This repository contains a Python-based solution for detecting driver drowsiness
 
    ```bash
    git clone https://github.com/yourusername/driver-drowsiness-detection.git
-2. **Install the required dependencies:
-   '''bash
+2. **Install the required dependencies:**
+   ```bash
    pip install -r requirements.txt
+
+3.**Run the main script:**
+      ```bash
+         python drowsiness_detection.py
+
+   4.**Customize the parameters in the configuration file to suit your preference**
+
+
+
+
+
+
+## Contributing
+ Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request.
