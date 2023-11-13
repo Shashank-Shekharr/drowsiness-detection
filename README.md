@@ -35,4 +35,6 @@ This repository contains a Python-based solution for detecting driver drowsiness
 
 3.**Run the main script:**
    ```bash
-    python drowsiness_detection.py
+      python drowsiness_detection.py
+
+
